@@ -1,0 +1,63 @@
+body {background-color: #777;
+font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+width: '960px';
+height: '350px';
+padding-left: 10px;
+padding-right: 20px;
+padding-bottom: 30px;
+font-size: 18px;}
+
+.div1 {
+            background-color: lightgrey;
+            width: 76%;
+            padding: 12px;
+            margin: 12px;
+        }
+        .div2 {
+            background-color: lightgrey;
+            width: 76%;
+            padding: 12px;
+            margin: 12px;
+            margin-bottom: 2px;
+        }
+        .div3
+        {  background-color: lightgrey;
+            width: 27%;
+            padding: 80px;
+            float:left;
+            margin: 12px;
+        }
+        .div31 {
+            background-color:grey;
+            width: 20%;
+            padding: 12px;
+            margin: 12px;
+        }
+        .div32 {
+            background-color: lightgray;
+            width: 18%;
+            padding: 12px;
+            margin: 12px;
+        }
+        .div33 {
+            background-color: lightgray;
+            width: 18%;
+            padding: 12px;
+            margin: 12px;
+        }
+.div4 {    background-color: lightgrey;
+    width: 15%;
+    padding: 80px;
+    float: right;
+    margin: 12px;
+    }
+        .div5 {
+            background-color: lightgrey;
+            width: 76%;
+            padding: 12px;
+            margin: 12px;
+        }
+</style>
+
+
+
