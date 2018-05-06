@@ -30,16 +30,17 @@ font-size: 18px;}
         .div31 {
             background-color:grey;
             width: 20%;
-            padding: 12px;
-            margin: 12px;
-        }
+            padding: 70px;
+            margin: 12px;} 
+
         .div32 {
+            float:center;
             background-color: lightgray;
             width: 18%;
             padding: 12px;
             margin: 12px;
-        }
-        .div33 {
+       }
+            .div33 {
             background-color: lightgray;
             width: 18%;
             padding: 12px;
@@ -51,12 +52,12 @@ font-size: 18px;}
     float: right;
     margin: 12px;
     }
-        .div5 {
-            background-color: lightgrey;
-            width: 76%;
-            padding: 12px;
-            margin: 12px;
-        }
+    <br>
+    .div5 {
+        background-color: lightgrey;
+        width: 76%;
+        padding: 12px;
+        margin: 12px;}
 </style>
 
 
